@@ -12,11 +12,11 @@ body {
 
 /*systeme de tab css */
 
-/* .link-tab--active {
+.link-tab--active {
     background: red;
     cursor: pointer;
 }
 
 .hidden {
     display: none;
-} */
+}
